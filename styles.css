@@ -169,7 +169,7 @@ body {
     text-align: justify;
 }
 
-/* experiences */
+
 .experiences {
     flex: 1 1 60%;
     margin-right: 50px;
@@ -263,3 +263,4 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
